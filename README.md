@@ -2,6 +2,10 @@
 ## 概要
 - Unity上でオブジェクトをアニメーションさせる方法の基本的なところについて書く
 
+## SampleProject
+- https://github.com/lycoris102/UnityAnimationLesson/raw/master/UnityAnimationLesson.unitypackage
+- Tween系のアセットは含めていないのでAssetsStoreから取得する必要がある
+
 ## NoScripting
 - (1) Unityに標準搭載されているAnimation機能を使用する
 - (2) 外部ツールで作成して変換する
@@ -80,3 +84,6 @@
 - イージングの動作確認に役立ちそうなサイト
   - http://easings.net/ja
   - http://bl.ocks.org/hunzy/9929724
+
+## Lisence
+<div><img src="http://unity-chan.com/images/imageLicenseLogo.png" alt="ユニティちゃんライセンス"><p>この作品は<a href="http://unity-chan.com/contents/license_jp/" target="_blank">ユニティちゃんライセンス条項</a>の元に提供されています</p></div>
