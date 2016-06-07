@@ -1,5 +1,6 @@
 # UnityAnimationLesson
 ## 概要
+- 社内勉強会用
 - Unity上でオブジェクトをアニメーションさせる方法の基本的なところについて書く
 
 ## SampleProject
